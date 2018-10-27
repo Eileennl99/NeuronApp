@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NeuronApp</string>
+    <string name="title_axon_list">Items</string>
+    <string name="title_axon_detail">axon Detail</string>
+</resources>
